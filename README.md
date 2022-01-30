@@ -1,2 +1,1 @@
-<<<<<<< HEAD
 # redux_counter
